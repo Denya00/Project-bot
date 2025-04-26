@@ -1,0 +1,232 @@
+{
+  "exercises": {
+    "beginner": {
+      "full_body": [
+        {
+          "text": "Jumping Jacks - 3 min",
+          "video": "https://youtu.be/2W4ZNSwoW_4",
+          "thumbnail": "https://img.youtube.com/vi/2W4ZNSwoW_4/0.jpg",
+          "duration": 180
+        },
+        {
+          "text": "Bodyweight Squats - 5 min",
+          "video": "https://youtu.be/YaXPRqUwItQ",
+          "thumbnail": "https://img.youtube.com/vi/YaXPRqUwItQ/0.jpg",
+          "duration": 300
+        },
+        {
+          "text": "Arm Circles - 7 min",
+          "video": "https://www.youtube.com/watch?v=3STTSi_jdHk",
+          "thumbnail": "http://i3.ytimg.com/vi/3STTSi_jdHk/hqdefault.jpg",
+          "duration": 420
+        }
+      ],
+      "upper_body": [
+        {
+          "text": "Wall Push-Ups - 5 min",
+          "video": "https://youtu.be/IODxDxX7oi4",
+          "thumbnail": "https://img.youtube.com/vi/IODxDxX7oi4/0.jpg",
+          "duration": 300
+        },
+        {
+          "text": "Shoulder Taps - 5 min",
+          "video": "https://www.youtube.com/watch?v=a2duDaO9BhM",
+          "thumbnail": "http://i3.ytimg.com/vi/a2duDaO9BhM/hqdefault.jpg",
+          "duration": 300
+        },
+        {
+          "text": "Arm Raises - 5 min",
+          "video": "https://www.youtube.com/watch?v=JDj-GoBK-cc",
+          "thumbnail": "https://i3.ytimg.com/vi/JDj-GoBK-cc/maxresdefault.jpg",
+          "duration": 300
+        }
+      ],
+      "lower_body": [
+        {
+          "text": "Glute Bridges - 5 min",
+          "video": "https://youtu.be/8bbE64NuDTU",
+          "thumbnail": "https://img.youtube.com/vi/8bbE64NuDTU/0.jpg",
+          "duration": 300
+        },
+        {
+          "text": "Standing Lunges - 5 min",
+          "video": "https://www.youtube.com/watch?v=FnUEsp-mQpU",
+          "thumbnail": "https://i3.ytimg.com/vi/FnUEsp-mQpU/maxresdefault.jpg",
+          "duration": 300
+        },
+        {
+          "text": "Calf Raises - 5 min",
+          "video": "https://www.youtube.com/watch?v=nnPGrBLNlaw",
+          "thumbnail": "https://i3.ytimg.com/vi/nnPGrBLNlaw/maxresdefault.jpg",
+          "duration": 300
+        }
+      ],
+      "cardio": [
+        {
+          "text": "High-Intensity Sprints - 15 min",
+          "video": "https://youtu.be/OAJ_J3EZkdY",
+          "thumbnail": "https://img.youtube.com/vi/OAJ_J3EZkdY/0.jpg",
+          "duration": 900
+        },
+        {
+          "text": "Jump Rope Workout - 10 min",
+          "video": "https://www.youtube.com/watch?v=a0Hrvh4RS3o",
+          "thumbnail": "https://i3.ytimg.com/vi/a0Hrvh4RS3o/maxresdefault.jpg",
+          "duration": 600
+        },
+        {
+          "text": "Full Body HIIT Cardio - 20 min",
+          "video": "https://www.youtube.com/watch?v=Urx4gMA2-Kw",
+          "thumbnail": "http://i3.ytimg.com/vi/Urx4gMA2-Kw/hqdefault.jpg",
+          "duration": 1200
+        },
+        {
+          "text": "Fat-Burning Cardio - 30 min",
+          "video": "https://youtu.be/UBMk30rjy0o",
+          "thumbnail": "https://img.youtube.com/vi/UBMk30rjy0o/0.jpg",
+          "duration": 1800
+        },
+        {
+          "text": "No-Equipment Cardio Workout - 15 min",
+          "video": "https://youtu.be/ml6cT4AZdqI",
+          "thumbnail": "https://img.youtube.com/vi/ml6cT4AZdqI/0.jpg",
+          "duration": 900
+        }
+      ]
+    },
+    "intermediate": {
+      "full_body": [
+        {
+          "text": "Burpees - 10 min",
+          "video": "https://youtu.be/TU8QYVW0gDU",
+          "thumbnail": "https://img.youtube.com/vi/TU8QYVW0gDU/0.jpg",
+          "duration": 600
+        },
+        {
+          "text": "Plank - 5 min",
+          "video": "https://www.youtube.com/watch?v=pvIjsG5Svck",
+          "thumbnail": "http://i3.ytimg.com/vi/pvIjsG5Svck/hqdefault.jpg",
+          "duration": 300
+        }
+      ],
+      "upper_body": [
+        {
+          "text": "Push-Ups - 10 min",
+          "video": "https://youtu.be/_l3ySVKYVJ8",
+          "thumbnail": "https://img.youtube.com/vi/_l3ySVKYVJ8/0.jpg",
+          "duration": 600
+        },
+        {
+          "text": "Tricep Dips - 5 min",
+          "video": "https://www.youtube.com/watch?v=89_spgcdQlw",
+          "thumbnail": "http://i3.ytimg.com/vi/89_spgcdQlw/hqdefault.jpg",
+          "duration": 300
+        }
+      ],
+      "lower_body": [
+        {
+          "text": "Lunges - 10 min",
+          "video": "https://youtu.be/wrwwXE_x-pQ",
+          "thumbnail": "https://img.youtube.com/vi/wrwwXE_x-pQ/0.jpg",
+          "duration": 600
+        },
+        {
+          "text": "Squat Jumps - 5 min",
+          "video": "https://www.youtube.com/watch?v=f7yCiru65r0",
+          "thumbnail": "http://i3.ytimg.com/vi/f7yCiru65r0/hqdefault.jpg",
+          "duration": 300
+        }
+      ],
+      "cardio": [
+        {
+          "text": "High-Intensity Sprints - 15 min",
+          "video": "https://youtu.be/OAJ_J3EZkdY",
+          "thumbnail": "https://img.youtube.com/vi/OAJ_J3EZkdY/0.jpg",
+          "duration": 900
+        },
+        {
+          "text": "Jump Rope Workout - 10 min",
+          "video": "https://www.youtube.com/watch?v=a0Hrvh4RS3o",
+          "thumbnail": "https://i3.ytimg.com/vi/a0Hrvh4RS3o/maxresdefault.jpg",
+          "duration": 600
+        },
+        {
+          "text": "Full Body HIIT Cardio - 20 min",
+          "video": "https://www.youtube.com/watch?v=Urx4gMA2-Kw",
+          "thumbnail": "http://i3.ytimg.com/vi/Urx4gMA2-Kw/hqdefault.jpg",
+          "duration": 1200
+        },
+        {
+          "text": "Fat-Burning Cardio - 30 min",
+          "video": "https://youtu.be/UBMk30rjy0o",
+          "thumbnail": "https://img.youtube.com/vi/UBMk30rjy0o/0.jpg",
+          "duration": 1800
+        },
+        {
+          "text": "No-Equipment Cardio Workout - 15 min",
+          "video": "https://youtu.be/ml6cT4AZdqI",
+          "thumbnail": "https://img.youtube.com/vi/ml6cT4AZdqI/0.jpg",
+          "duration": 900
+        }
+      ]
+    },
+    "advanced": {
+      "full_body": [
+        {
+          "text": "Pistol Squats - 15 min",
+          "video": "https://youtu.be/U3HlEF_E9fo",
+          "thumbnail": "https://img.youtube.com/vi/U3HlEF_E9fo/0.jpg",
+          "duration": 900
+        }
+      ],
+      "upper_body": [
+        {
+          "text": "Pull-Ups - 15 min",
+          "video": "https://www.youtube.com/watch?v=aAggnpPyR6E",
+          "thumbnail": "https://i3.ytimg.com/vi/aAggnpPyR6E/maxresdefault.jpg",
+          "duration": 900
+        }
+      ],
+      "lower_body": [
+        {
+          "text": "Bulgarian Split Squats - 15 min",
+          "video": "https://www.youtube.com/watch?v=QD4P9Di7L20",
+          "thumbnail": "http://i3.ytimg.com/vi/QD4P9Di7L20/hqdefault.jpg",
+          "duration": 900
+        }
+      ],
+      "cardio": [
+        {
+          "text": "High-Intensity Sprints - 15 min",
+          "video": "https://youtu.be/OAJ_J3EZkdY",
+          "thumbnail": "https://img.youtube.com/vi/OAJ_J3EZkdY/0.jpg",
+          "duration": 900
+        },
+        {
+          "text": "Jump Rope Workout - 10 min",
+          "video": "https://www.youtube.com/watch?v=a0Hrvh4RS3o",
+          "thumbnail": "https://i3.ytimg.com/vi/a0Hrvh4RS3o/maxresdefault.jpg",
+          "duration": 600
+        },
+        {
+          "text": "Full Body HIIT Cardio - 20 min",
+          "video": "https://www.youtube.com/watch?v=Urx4gMA2-Kw",
+          "thumbnail": "http://i3.ytimg.com/vi/Urx4gMA2-Kw/hqdefault.jpg",
+          "duration": 1200
+        },
+        {
+          "text": "Fat-Burning Cardio - 30 min",
+          "video": "https://youtu.be/UBMk30rjy0o",
+          "thumbnail": "https://img.youtube.com/vi/UBMk30rjy0o/0.jpg",
+          "duration": 1800
+        },
+        {
+          "text": "No-Equipment Cardio Workout - 15 min",
+          "video": "https://youtu.be/ml6cT4AZdqI",
+          "thumbnail": "https://img.youtube.com/vi/ml6cT4AZdqI/0.jpg",
+          "duration": 900
+        }
+      ]
+    }
+  }
+}
